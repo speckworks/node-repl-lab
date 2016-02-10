@@ -1,0 +1,14 @@
+tags:
+  - lab
+  - node
+languages:
+  - node
+resources: 2
+track:
+  - web development
+topic:
+  - node
+unit:
+  - Node Basics
+lesson:
+  - Use REPL and Global
