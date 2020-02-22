@@ -24,3 +24,10 @@ A good understanding of Node REPL will give you a tool to test your Node code qu
 * [Date on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/node-repl-lab' title='node-repl-lab'>node-repl-lab</a> on Learn.co and start learning to code for free.</p>
+
+> const decOfInd = new Date('1776, 7,4')
+undefined
+> const dayFree = decOfInd.getDay()
+undefined
+> console.log(dayFree)
+4
